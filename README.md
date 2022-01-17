@@ -1,14 +1,21 @@
-### Welcome to my Github! I am George, aka AkaCoder404!
+# Welcome to my Github! 
+I am George, aka AkaCoder404!
 
 
 ### Connect with Me! 
 [<img align="left" alt="akacoder404.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="akacoder404 | Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />][weibo]
+[<img align="left" alt="akacoder404 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="akacoder404 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/><br/>
+<br/>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Languages:
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -20,9 +27,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<br/> <br/>
-
+<br/><br/>
 
 
 ### Tools:
@@ -47,6 +52,7 @@
 [course]: 
 [twitter]: 
 [youtube]:  -->
+[weibo]: https://weibo.com/u/7725080699
 [instagram]: https://www.instagram.com/curiousgeorgeli/
 <!-- [linkedin]: 
 [webdevplaylist]: 
