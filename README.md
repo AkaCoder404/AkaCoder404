@@ -56,7 +56,7 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 [//]: # (link defs that don't show up)
 
-[website]: https://www.akacoder404@github.io/
+[website]: http://123.56.233.131/
 <!-- 
 [course]: 
 [twitter]: 
