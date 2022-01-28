@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 Transparency Report](https://github.blog/2022-01-27-2021-transparency-report/)
 - [Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/)
 - [Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/)
 - [Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/)
 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
-- [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
