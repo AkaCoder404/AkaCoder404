@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
 - [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 - [Coordinated vulnerability disclosure &lpar;CVD&rpar; for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/)
 - [Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/)
-- [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
