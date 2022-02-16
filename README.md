@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/)
+- [Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/)
 - [GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/)
 - [The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/)
 - [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/)
-- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-- [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
