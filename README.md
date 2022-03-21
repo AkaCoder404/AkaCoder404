@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/)
 - [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
 - [Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/)
 - [Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
 - [Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/)
-- [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
