@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
 - [Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/)
 - [Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/)
 - [Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/)
 - [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
-- [Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
