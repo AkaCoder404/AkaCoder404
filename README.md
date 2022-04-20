@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
 - [Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
 - [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/)
 - [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
 - [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
-- [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
