@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
 - [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
 - [Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/)
 - [Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/)
 - [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
-- [Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
