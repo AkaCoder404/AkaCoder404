@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/)
 - [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
 - [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
 - [GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/)
 - [Being friendly: Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/)
-- [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
