@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
+- [GitHub Achieves ISO/IEC 27001:2013 Certification!](https://github.blog/2022-05-16-github-achieves-iso-iec-270012013-certification/)
 - [Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/)
 - [Open Source Monthly – May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/)
 - [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/)
-- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- [Prepare for next semester with GitHub Global Campus and Codespaces](https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
