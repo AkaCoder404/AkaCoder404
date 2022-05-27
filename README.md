@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 - [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
 - [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/)
 - [GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/)
 - [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/)
-- [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
