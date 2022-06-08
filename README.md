@@ -41,10 +41,10 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
+- [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/)
 - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
 - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/)
 - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
-- [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
