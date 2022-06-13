@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
 - [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
 - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
 - [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/)
 - [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/)
-- [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
