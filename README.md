@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/)
 - [Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
 - [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
 - [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
 - [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
-- [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
