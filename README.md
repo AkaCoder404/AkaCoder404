@@ -40,11 +40,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 - [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/)
 - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 - [GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/)
-- [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
