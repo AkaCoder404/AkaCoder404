@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/)
+- [Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/)
 - [The Chromium super &lpar;inline cache&rpar; type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
 - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
 - [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/)
-- [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
-- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
