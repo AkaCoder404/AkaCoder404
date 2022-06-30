@@ -15,6 +15,9 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br/>
 
+### Currently Working on:
+- Leetcode Journey @ https://akacoder404.gitbook.io/leet-code-journey/
+
 
 ### 🔨 Languages and Tools:
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
