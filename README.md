@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/)
 - [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/)
 - [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
 - [Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/)
 - [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)
-- [GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
