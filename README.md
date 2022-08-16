@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/)
 - [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
 - [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
 - [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
 - [New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/)
-- [All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
