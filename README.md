@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/)
 - [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
 - [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
 - [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
-- [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
