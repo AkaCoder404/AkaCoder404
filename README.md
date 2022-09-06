@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/)
 - [Contributing to open source at GitHub](https://github.blog/2022-09-06-contributing-to-open-source-at-github/)
 - [Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/)
 - [Git’s database internals V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/)
 - [GitHub Actions: introducing the new, larger GitHub-hosted runners beta](https://github.blog/2022-09-01-github-actions-introducing-the-new-larger-github-hosted-runners-beta/)
-- [Git’s database internals IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
