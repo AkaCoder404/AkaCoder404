@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCA vs SAST: what are they and which one is right for you?](https://github.blog/2022-09-09-sca-vs-sast-what-are-they-and-which-one-is-right-for-you/)
 - [GitHub Copilot now available for teachers](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/)
 - [Research: open source software in India, Kenya, Egypt, and Mexico](https://github.blog/2022-09-08-research-open-source-software-in-india-kenya-egypt-and-mexico/)
 - [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
 - [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-- [Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
