@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/)
 - [5 steps to convince your boss to send you to GitHub Universe](https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/)
 - [5 tips for prioritizing Dependabot alerts](https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/)
 - [How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/)
 - [8 things you didn’t know you could do with GitHub Copilot](https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/)
-- [Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
