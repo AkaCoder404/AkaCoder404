@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security alert: new phishing campaign targets GitHub users](https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/)
 - [Applications for micro-mentoring at GitHub Universe 2022 are now live](https://github.blog/2022-09-21-applications-for-micro-mentoring-at-github-universe-2022-are-now-live/)
 - [The ReadME Project: Built for you!](https://github.blog/2022-09-21-the-readme-project-built-for-you/)
 - [Why we signed the Copenhagen Pledge on Tech for Democracy](https://github.blog/2022-09-21-why-we-signed-the-copenhagen-pledge-on-tech-for-democracy/)
 - [Transform your software engineering practices with GitHub Enterprise](https://github.blog/2022-09-20-transform-your-software-engineering-practices-with-github-enterprise/)
-- [“If you don’t make it beautiful, it’s for sure doomed”: putting the Vault in GitHub’s Arctic Code Vault](https://github.blog/2022-09-20-if-you-dont-make-it-beautiful-its-for-sure-doomed-putting-the-vault-in-githubs-arctic-code-vault/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
