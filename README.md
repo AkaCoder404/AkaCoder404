@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expand your open source contributions during Hacktoberfest 2022](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/)
 - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 - [GitHub supports internet freedom and global availability in Iran](https://github.blog/2022-09-29-github-supports-internet-freedom-and-global-availability-in-iran/)
 - [After the offer: staying in tech long-term](https://github.blog/2022-09-29-after-the-offer-staying-in-tech-long-term/)
 - [Best practices on rolling out code scanning at enterprise scale](https://github.blog/2022-09-28-best-practices-on-rolling-out-code-scanning-at-enterprise-scale/)
-- [Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-23-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
