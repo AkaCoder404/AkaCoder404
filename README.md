@@ -44,10 +44,10 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/)
+- [View GitHub code scanning findings directly in VS Code and GitHub Codespaces](https://github.blog/2022-10-11-view-github-code-scanning-findings-directly-in-vs-code-and-github-codespaces/)
 - [On the go with GitHub Projects on GitHub Mobile &lpar;public beta&rpar;](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/)
 - [Developers are now included in the WIPO Global Innovation Index](https://github.blog/2022-10-06-developers-are-now-included-in-the-wipo-global-innovation-index/)
 - [GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/)
-- [js13kGames 2022 winners 🏆](https://github.blog/2022-10-06-js13k-2022-winners/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
