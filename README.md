@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/)
 - [Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/)
 - [Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/)
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
-- [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
