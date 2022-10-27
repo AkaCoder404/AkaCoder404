@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What we learned from the Security Lab’s Community Office Hours](https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/)
 - [Diversity, inclusion, and belonging at GitHub in 2022](https://github.blog/2022-10-27-diversity-inclusion-and-belonging-at-github-in-2022/)
 - [3 strategies for consolidating your toolkit and boosting productivity](https://github.blog/2022-10-26-3-strategies-for-consolidating-your-toolkit-and-boosting-productivity/)
 - [Why and how GitHub encrypts sensitive database columns using ActiveRecord::Encryption](https://github.blog/2022-10-26-why-and-how-github-encrypts-sensitive-database-columns-using-activerecordencryption/)
 - [Why we’re excited about the Sigstore general availability](https://github.blog/2022-10-25-why-were-excited-about-the-sigstore-general-availability/)
-- [Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
