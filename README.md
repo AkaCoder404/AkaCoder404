@@ -43,11 +43,11 @@ I am George, aka AkaCoder404! Readme is a work in progress, like everything I do
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/)
 - [13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/)
 - [Cybersecurity spotlight on bug bounty researcher @ahacker1](https://github.blog/2022-10-28-cybersecurity-spotlight-on-bug-bounty-researcher-ahacker1/)
 - [Release Radar · September 2022 Edition](https://github.blog/2022-10-28-release-radar-sept-2022/)
 - [Choose your own GitHub Universe 2022 adventure](https://github.blog/2022-10-27-choose-your-own-github-universe-2022-adventure/)
-- [What we learned from the Security Lab’s Community Office Hours](https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
