@@ -1,5 +1,5 @@
 # Welcome to my Github! 
-I am George, aka AkaCoder404! Readme is a work in progress, like everything I do. 
+I am AkaCoder404! Readme is a work in progress, like everything I do. 
 
 - 🏫 I am currently studying at Tsinghua University
 - 🍎 I am currently learning everything ! 
