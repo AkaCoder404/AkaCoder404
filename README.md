@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/)
+- [An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
+- [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
 - [Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/)
 - [The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/)
-- [Why more companies are investing in open source program offices](https://github.blog/2022-11-09-why-companies-are-starting-ospos/)
-- [The importance of improving supply chain security in open source](https://github.blog/2022-11-09-improving-open-source-supply-chain-security/)
-- [Bringing greater financial sustainability to open source communities](https://github.blog/2022-11-09-financial-sustainability-in-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
