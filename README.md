@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A better way to search, navigate, and understand code on GitHub](https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/)
 - [The journey of your work has never been clearer](https://github.blog/2022-11-15-the-journey-of-your-work-has-never-been-clearer/)
 - [Introducing GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/)
 - [What’s new with Codespaces from GitHub Universe 2022](https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/)
 - [Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/)
-- [An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
