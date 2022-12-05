@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ICYMI: A look back at GitHub Universe 2022](https://github.blog/2022-12-05-icymi-a-look-back-at-github-universe-2022/)
 - [GitHub, accessibility, and the disability divide](https://github.blog/2022-12-02-github-accessibility-and-the-disability-divide/)
 - [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 - [How empowering developers helps teams ship secure software faster](https://github.blog/2022-12-01-how-empowering-developers-helps-teams-ship-secure-software-faster/)
 - [An enterprise account is coming to all Enterprise customers](https://github.blog/2022-12-01-an-enterprise-account-is-coming-to-all-enterprise-customers/)
-- [To infinity and beyond: enabling the future of GitHub’s REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
