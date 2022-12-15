@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaked a secret? Check your GitHub alerts…for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/)
+- [GitHub Advanced Security customers can now push protect their custom patterns](https://github.blog/2022-12-15-github-advanced-security-customers-can-now-push-protect-their-custom-patterns/)
 - [Raising the bar for software security: next steps for GitHub.com 2FA](https://github.blog/2022-12-14-raising-the-bar-for-software-security-next-steps-for-github-com-2fa/)
 - [Creating an accessible search experience with the QueryBuilder component](https://github.blog/2022-12-13-creating-an-accessible-search-experience-with-the-querybuilder-component/)
 - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
-- [Release Radar · October 2022 Edition](https://github.blog/2022-12-09-release-radar-october-2022/)
-- [Experiment: The hidden costs of waiting on slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
