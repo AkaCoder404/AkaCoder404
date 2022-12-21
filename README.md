@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Gives 2022: Creating positive, lasting contributions in our communities](https://github.blog/2022-12-21-github-gives-2022-creating-positive-lasting-contributions-in-our-communities/)
 - [Increase developer productivity, save time on developer onboarding, and drive ROI in 2023](https://github.blog/2022-12-20-increase-developer-productivity-save-time-on-developer-onboarding-and-drive-roi-in-2023/)
 - [Not just flightless birds: How EMUs secure and scale identity and access management for your GitHub Enterprise](https://github.blog/2022-12-20-emus-more-than-just-flightless-birds/)
 - [How we use GitHub to be more productive, collaborative, and secure](https://github.blog/2022-12-20-how-we-use-github-to-be-more-productive-collaborative-and-secure/)
 - [[Video] How has open source changed in the last 10 years?](https://github.blog/2022-12-19-video-how-has-open-source-changed-in-the-last-10-years/)
-- [Release Radar · November 2022 Edition](https://github.blog/2022-12-16-release-radar-nov-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
