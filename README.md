@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Default setup: A new way to enable GitHub code scanning](https://github.blog/2023-01-09-default-setup-a-new-way-to-enable-github-code-scanning/)
 - [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
 - [GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/)
 - [GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/)
 - [What’s with all the ducks?](https://github.blog/2022-12-23-whats-with-all-the-ducks/)
-- [GitHub Gives 2022: Creating positive, lasting contributions in our communities](https://github.blog/2022-12-21-github-gives-2022-creating-positive-lasting-contributions-in-our-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
