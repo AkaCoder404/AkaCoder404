@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/)
 - [Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
 - [Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 - [GitHub Discussions just got better with Category Forms!](https://github.blog/2023-01-09-github-discussions-just-got-better-with-category-forms/)
 - [Default setup: A new way to enable GitHub code scanning](https://github.blog/2023-01-09-default-setup-a-new-way-to-enable-github-code-scanning/)
-- [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
