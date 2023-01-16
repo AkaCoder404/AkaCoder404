@@ -16,7 +16,7 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <br/>
 
 ### Currently Working on:
-- Leetcode Journey @ https://akacoder404.gitbook.io/leet-code-journey/
+- Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
 
 ### 🔨 Languages and Tools:
@@ -59,7 +59,7 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 [//]: # (link defs that don't show up)
 
-[website]: http://123.56.233.131/
+[website]: https://akacoder404.github.io/
 <!-- 
 [course]: 
 [twitter]: 
