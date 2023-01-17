@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 common DevOps antipatterns and cloud native strategies that can help](https://github.blog/2023-01-17-3-common-devops-antipatterns-and-cloud-native-strategies-that-can-help/)
 - [Game Off 2022 winners 🏆](https://github.blog/2023-01-13-game-off-2022-winners/)
 - [New GitHub CLI extension tools](https://github.blog/2023-01-13-new-github-cli-extension-tools/)
 - [A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/)
 - [Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
-- [Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
