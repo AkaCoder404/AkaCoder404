@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/)
 - [How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/)
 - [Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/)
 - [Dependabot alerts are now visible to more developers](https://github.blog/2023-01-17-dependabot-alerts-are-now-visible-to-more-developers/)
 - [Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
-- [3 common DevOps antipatterns and cloud native strategies that can help](https://github.blog/2023-01-17-3-common-devops-antipatterns-and-cloud-native-strategies-that-can-help/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
