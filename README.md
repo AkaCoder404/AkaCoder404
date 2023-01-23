@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/)
 - [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
 - [Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/)
 - [Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/)
 - [Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/)
-- [Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
