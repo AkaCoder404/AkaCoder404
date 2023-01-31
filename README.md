@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Skilling for the future: How GitHub is advancing diversity, equity, and inclusion within open source communities](https://github.blog/2023-01-31-skilling-for-the-future-how-github-is-advancing-diversity-equity-and-inclusion-within-open-source-communities/)
 - [Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/)
 - [Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/)
 - [Setting the foundations for compliance](https://github.blog/2023-01-26-setting-the-foundations-for-compliance/)
 - [100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/)
-- [Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
