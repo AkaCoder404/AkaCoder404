@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/)
 - [Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/)
 - [GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
 - [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
 - [Yout amicus: fighting for developers’ right to innovate](https://github.blog/2023-02-13-yout-amicus-fighting-for-developers-right-to-innovate/)
-- [Release Radar, Festive Edition · December 2022 – January 2023](https://github.blog/2023-02-08-release-radar-dec-2022-jan-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
