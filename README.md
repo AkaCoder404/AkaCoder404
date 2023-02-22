@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/)
 - [Update on the future stability of source code archives and hashes](https://github.blog/2023-02-21-update-on-the-future-stability-of-source-code-archives-and-hashes/)
 - [ICYMI: CodeQL enhancements](https://github.blog/2023-02-16-icymi-codeql-enhancements/)
 - [2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/)
 - [Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/)
-- [GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
