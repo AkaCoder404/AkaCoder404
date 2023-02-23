@@ -44,10 +44,10 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The code that wasn’t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/)
+- [A beginner’s guide to learning to code with GitHub Codespaces](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/)
 - [Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/)
 - [Update on the future stability of source code archives and hashes](https://github.blog/2023-02-21-update-on-the-future-stability-of-source-code-archives-and-hashes/)
 - [ICYMI: CodeQL enhancements](https://github.blog/2023-02-16-icymi-codeql-enhancements/)
-- [2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
