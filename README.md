@@ -43,11 +43,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a consistent workflow for development and operations teams](https://github.blog/2023-02-28-how-to-build-a-consistent-workflow-for-development-and-operations-teams/)
 - [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/)
 - [Secret scanning alerts are now available &lpar;and free&rpar; for all public repositories](https://github.blog/2023-02-28-secret-scanning-alerts-are-now-available-and-free-for-all-public-repositories/)
 - [3 ways to meet compliance needs without slowing down agility](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/)
 - [Measuring government policy on open source with a new dataset](https://github.blog/2023-02-23-measuring-government-policy-on-open-source-with-a-new-dataset/)
-- [The code that wasn’t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
