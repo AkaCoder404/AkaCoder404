@@ -16,6 +16,8 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <br/>
 
 ### Currently Working on:
+- Personal Webpage @ 
+- Personal Blog @ https://akacoder404.github.io/
 - Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
 
