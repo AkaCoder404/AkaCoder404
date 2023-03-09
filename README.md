@@ -45,11 +45,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How GitHub Docs’ new search works](https://github.blog/2023-03-09-how-github-docs-new-search-works/)
 - [Multi-repository variant analysis: a powerful new way to perform security research across GitHub](https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github/)
 - [Application security orchestration with GitHub Advanced Security](https://github.blog/2023-03-08-application-security-orchestration-with-github-advanced-security/)
 - [GitHub Galaxy 2023: your guide to building a more flexible and productive software development cycle](https://github.blog/2023-03-08-github-galaxy-2023-your-guide-to-building-a-more-flexible-and-productive-software-development-cycle/)
 - [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/)
-- [File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
