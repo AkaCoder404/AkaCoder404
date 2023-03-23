@@ -45,11 +45,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a secure code mindset with the GitHub Secure Code Game](https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/)
 - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Partnering with EU policymakers to ensure the Cyber Resilience Act works for developers](https://github.blog/2023-03-17-partnering-with-eu-policymakers-to-ensure-the-cyber-resilience-act-works-for-developers/)
 - [Godot 4.0 Release Party 🎉](https://github.blog/2023-03-16-godot-4-0-release-party/)
 - [How the Grafana Alerting team scales their issue management with GitHub Projects](https://github.blog/2023-03-15-how-the-grafana-alerting-team-scales-their-issue-management-with-github-projects/)
-- [GitHub celebrates the ingenuity of developers with disabilities in new video series](https://github.blog/2023-03-14-github-celebrates-the-ingenuity-of-developers-with-disabilities-in-new-video-series/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
