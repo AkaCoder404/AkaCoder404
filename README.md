@@ -45,11 +45,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improvements to CodeQL’s data flow library for C++](https://github.blog/2023-03-30-improvements-to-codeqls-data-flow-library-for-c/)
 - [Introducing self-service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
 - [GitHub Galaxy 2023: Empower developer teams with a new developer experience](https://github.blog/2023-03-28-github-galaxy-2023-empower-developer-teams-with-a-new-developer-experience/)
 - [Announcing the GitHub Actions extension for VS Code](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/)
 - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-- [Build a secure code mindset with the GitHub Secure Code Game](https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
