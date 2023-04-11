@@ -45,11 +45,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/)
 - [How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/)
 - [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
 - [Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/)
 - [Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
-- [Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
