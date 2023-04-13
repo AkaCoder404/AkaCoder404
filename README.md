@@ -45,11 +45,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring compliance in developer workflows](https://github.blog/2023-04-13-ensuring-compliance-in-developer-workflows/)
 - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 - [Introducing the newest GitHub Shop collection](https://github.blog/2023-04-11-introducing-the-newest-github-shop-collection/)
 - [Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/)
 - [How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/)
-- [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
