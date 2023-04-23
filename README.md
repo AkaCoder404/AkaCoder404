@@ -1,4 +1,12 @@
 # Welcome to my Github! 
+
+[![Linkedin Badge](https://img.shields.io/badge/-thegeorgeyli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thegeorgeyli/)](https://www.linkedin.com/in//)
+[![Medium Badge](https://img.shields.io/badge/-@akacoder404-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@akacoder404)](https://medium.com/@akacoder404)
+[![Website Badge](https://img.shields.io/badge/-portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
+[![Twitter Badge](https://img.shields.io/badge/-@curiousgeorgeli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/curiousgeorgeli)](https://twitter.com/curiousgeorgeli)
+[![Instagram Badge](https://img.shields.io/badge/-@curiousgeorgeli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/curiousgeorgeli/)](https://instagram.com/_jessicaalim)
+[![Outlook Badge](https://img.shields.io/badge/-akacoder404-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akacoder404@outlook.com)](mailto:jessicalim813@gmail.com)
+
 I am AkaCoder404! Readme is a work in progress, like everything I do. 
 
 - 🏫 I am currently studying at Tsinghua University
@@ -15,11 +23,12 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br/>
 
-### Currently Working on:
-- Personal Webpage @ 
+### Social Media
+- Personal Webpage @ https://portfolio-akacoder404.vercel.app/
 - Personal Blog @ https://akacoder404.github.io/
-- Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
+### Currently Working on:
+- Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
 ### 🔨 Languages and Tools:
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -53,11 +62,6 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
-
-### 🎦 Social Media
-
-
-
 
 [//]: # (link defs that don't show up)
 
