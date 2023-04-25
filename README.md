@@ -54,11 +54,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/)
 - [Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/)
 - [Shaping the GitHub of the future as COO](https://github.blog/2023-04-25-shaping-the-github-of-the-future-as-coo/)
 - [Announcing GitHub Actions Deployment Protection Rules, now in public beta](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/)
 - [Private vulnerability reporting now generally available](https://github.blog/2023-04-19-private-vulnerability-reporting-now-generally-available/)
-- [Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
