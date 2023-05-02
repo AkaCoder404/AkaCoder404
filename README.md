@@ -54,11 +54,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot relieves alert fatigue from npm devDependencies](https://github.blog/2023-05-02-dependabot-relieves-alert-fatigue-from-npm-devdependencies/)
 - [This month on The ReadME Podcast: exploring the fusion of technology and progress](https://github.blog/2023-04-28-this-month-on-the-readme-podcast-exploring-the-fusion-of-technology-and-progress/)
 - [CLI tricks every developer should know](https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/)
 - [Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/)
 - [Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/)
-- [Shaping the GitHub of the future as COO](https://github.blog/2023-04-25-shaping-the-github-of-the-future-as-coo/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
