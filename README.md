@@ -54,11 +54,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design’s journey towards accessibility](https://github.blog/2023-05-17-designs-journey-towards-accessibility/)
 - [Addressing GitHub’s recent availability issues](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues/)
 - [This month on The ReadME Podcast: Balancing openness and control](https://github.blog/2023-05-12-this-month-on-the-readme-podcast-balancing-openness-and-control/)
 - [How I used GitHub Copilot to build a browser extension](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
 - [Navigation and search improvements for accessibility](https://github.blog/2023-05-11-navigation-and-search-improvements-for-accessibility/)
-- [Unlocking inclusive design: how Primer’s color system is making GitHub.com more inclusive](https://github.blog/2023-05-11-unlocking-inclusive-design-how-primers-color-system-is-making-github-com-more-inclusive/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
