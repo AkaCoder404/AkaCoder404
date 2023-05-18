@@ -1,11 +1,12 @@
 # Welcome to my Github! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-thegeorgeyli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thegeorgeyli/)](https://www.linkedin.com/in//)
-[![Medium Badge](https://img.shields.io/badge/-@akacoder404-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@akacoder404)](https://medium.com/@akacoder404)
+[![Medium Badge](https://img.shields.io/badge/-thegeorgeyli-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@akacoder404)](https://medium.com/@thegeorgeyli)
 [![Website Badge](https://img.shields.io/badge/-portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-@curiousgeorgeli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/curiousgeorgeli)](https://twitter.com/curiousgeorgeli)
-[![Instagram Badge](https://img.shields.io/badge/-@curiousgeorgeli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/curiousgeorgeli/)](https://instagram.com/_jessicaalim)
-[![Outlook Badge](https://img.shields.io/badge/-akacoder404-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akacoder404@outlook.com)](mailto:jessicalim813@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@curiousgeorgeli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/curiousgeorgeli/)](https://instagram.com/curiousgeorgeli)
+[![Outlook Badge](https://img.shields.io/badge/-akacoder404-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akacoder404@outlook.com)](mailto:akacoder404@outlook.com)
+[![Dev.to blog](https://img.shields.io/badge/-akacoder404-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/akacoder404)](https://dev.to/akacoder404)
 
 I am AkaCoder404! Readme is a work in progress, like everything I do. 
 
@@ -23,11 +24,9 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br/>
 
-### Social Media
+### 🚧 Active Webpages (In Progress)
 - Personal Webpage @ https://portfolio-akacoder404.vercel.app/
 - Personal Blog @ https://akacoder404.github.io/
-
-### Currently Working on:
 - Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
 ### 🔨 Languages and Tools:
@@ -48,8 +47,6 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-
-<br/><br/><hr>
 
 
 ### 📕 Blog posts
