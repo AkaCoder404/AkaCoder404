@@ -52,11 +52,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/)
 - [Swift support brings broader mobile application security to GitHub Advanced Security](https://github.blog/2023-06-06-swift-support-brings-broader-mobile-application-security-to-github-advanced-security/)
 - [Announcing the Stale Repos Action](https://github.blog/2023-06-05-announcing-the-stale-repos-action/)
 - [Applying GitOps principles to your operations](https://github.blog/2023-06-02-applying-gitops-principles-to-your-operations/)
 - [Elevating open source contributors to open source maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/)
-- [Highlights from Git 2.41](https://github.blog/2023-06-01-highlights-from-git-2-41/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
