@@ -52,11 +52,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/)
 - [GitHub Availability Report: May 2023](https://github.blog/2023-06-14-github-availability-report-may-2023/)
 - [Survey reveals AI’s impact on the developer experience](https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/)
 - [GitHub’s revamped VIP Bug Bounty Program](https://github.blog/2023-06-12-githubs-revamped-vip-bug-bounty-program/)
 - [Make your GitHub projects more accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/)
-- [Cloud migration made easy: introducing GitHub Enterprise Importer](https://github.blog/2023-06-12-cloud-migration-made-easy-introducing-github-enterprise-importer/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
