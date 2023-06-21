@@ -52,11 +52,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/)
 - [Bridging code and community](https://github.blog/2023-06-21-bridging-code-and-community/)
 - [Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/)
 - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Developers need the right to challenge junk patents](https://github.blog/2023-06-19-developers-need-the-right-to-challenge-junk-patents/)
-- [Exploring GitHub with the redesigned navigation, now in public beta](https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
