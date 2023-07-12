@@ -52,11 +52,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
 - [No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 - [Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/)
 - [GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/)
-- [Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
