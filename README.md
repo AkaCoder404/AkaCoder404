@@ -52,11 +52,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/)
 - [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
 - [Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/)
 - [A developer’s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
 - [Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/)
-- [&lpar;De&rpar;coding conventions](https://github.blog/2023-07-13-decoding-conventions/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
