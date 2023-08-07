@@ -8,6 +8,10 @@
 [![Outlook Badge](https://img.shields.io/badge/-akacoder404-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akacoder404@outlook.com)](mailto:akacoder404@outlook.com)
 [![Dev.to blog](https://img.shields.io/badge/-akacoder404-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/akacoder404)](https://dev.to/akacoder404)
 
+
+ [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akacoder404)
+ [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/akacoder404/)   
+
 I am AkaCoder404! Readme is a work in progress, like everything I do. 
 
 - 🏫 I am currently studying at Tsinghua University
