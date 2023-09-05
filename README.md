@@ -29,7 +29,7 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <br/>
 
 ### 🚧 Active Webpages (In Progress)
-- Personal Webpage @ https://portfolio-akacoder404.vercel.app/
+- Portfolio Webpage @ https://portfolio-akacoder404.vercel.app/
 - Personal Blog @ https://akacoder404.github.io/ (Actions pipeline broken)
 - New Personal Blog @ https://akacoder404.github.io/MyBlog/ 
 - Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
