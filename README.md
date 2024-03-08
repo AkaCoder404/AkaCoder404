@@ -30,10 +30,11 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 <br/>
 
 ### 🚧 Active Webpages (In Progress)
-- Portfolio Webpage @ https://portfolio-akacoder404.vercel.app/
-- Personal Blog @ https://akacoder404.github.io/ (Actions pipeline broken)
-- New Personal Blog @ https://akacoder404.github.io/MyBlog/ 
-- Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
+- 📓 Notes @ https://akacoder404.github.io/Obsidian-Quartz-PKM-Notes/
+- 👤 Portfolio Webpage @ https://portfolio-akacoder404.vercel.app/
+- 💻 Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
+- [NOT IN USE] New Personal Blog @ https://akacoder404.github.io/MyBlog/ 
+- [NOT IN USE] Personal Blog @ https://akacoder404.github.io/ (Actions pipeline broken)
 
 ### 🔨 Languages and Tools:
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
