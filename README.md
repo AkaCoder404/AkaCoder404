@@ -37,7 +37,7 @@ Here are some of my notable projects
 - Reinforcement Learning: [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
 - Machine Learning: [3D Neural Networks]()
 - Applications of ML: [HoopAi](https://github.com/AkaCoder404/HoopAI)
-- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder), [Chatter](https://github.com/AkaCoder404/Chatter), [SendNews](https://github.com/AkaCoder404/Sendnews)
+- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder), [SnapShots](https://github.com/AkaCoder404/Snapshots), [SendNews](https://github.com/AkaCoder404/Sendnews), [Chatter](https://github.com/AkaCoder404/Chatter)
 
 
 ### 🔨 Languages and Tools
