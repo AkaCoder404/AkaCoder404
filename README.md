@@ -1,8 +1,8 @@
 # Welcome to my Github! 
 I am AkaCoder404! Readme is a work in progress, like everything I do. 
 
-- 🏫 I have graduated Tsinghua University and currently studying Masters
-- 🍎 I am currently learning everything related to Data Science, Machine Learning, and AI ! 
+- 🏫 I have graduated Tsinghua University and majored in Computer Science. Now at Fudan University doing Software Engineering.
+- 🍎 I am currently learning everything related to Data Science, Machine Learning, AI and generally in love with Software Development.
 - :heart: I love 🏀, 📷, and ✈️。
 
 ### 🌍 Platforms
@@ -35,9 +35,16 @@ Here is a collection of my on going notes!
 
 Here are some of my notable projects
 - Reinforcement Learning: [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
-- Machine Learning: [3D Neural Networks]()
+- Machine Learning: [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN), [Recreating CNN Models]() 
 - Applications of ML: [HoopAi](https://github.com/AkaCoder404/HoopAI)
-- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder), [SnapShots](https://github.com/AkaCoder404/Snapshots), [SendNews](https://github.com/AkaCoder404/Sendnews), [Chatter](https://github.com/AkaCoder404/Chatter)
+- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter, [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma, [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio, [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter, [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter.
+
+### 📄 Certifications
+I got the following certificates.
+- AWS Cloud Practitioner, AWS Solutions Architect
+- IBM Data Scientist, Data Analyst Specialization
+- DeepLearing Specialization
+- Meta Back-End Developer Specialization
 
 
 ### 🔨 Languages and Tools
