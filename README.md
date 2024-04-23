@@ -6,13 +6,17 @@ I am AkaCoder404! Readme is a work in progress, like everything I do.
 - :heart: I love 🏀, 📷, and ✈️。
 
 ### 🌍 Platforms
+Some platforms I use.
+
 [![Website Badge](https://img.shields.io/badge/-portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
 [![Medium Badge](https://img.shields.io/badge/-thegeorgeyli-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@akacoder404)](https://medium.com/@thegeorgeyli)
 [![Dev.to blog](https://img.shields.io/badge/-akacoder404-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/akacoder404)](https://dev.to/akacoder404)
 
- [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akacoder404)
- [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/akacoder404/)   
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akacoder404)
+[![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/akacoder404/)   
 ### 📞 Connect with Me! 
+You can contact me here.
+
 [![Instagram Badge](https://img.shields.io/badge/-@curiousgeorgeli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/curiousgeorgeli/)](https://instagram.com/curiousgeorgeli)
 [![Twitter Badge](https://img.shields.io/badge/-@curiousgeorgeli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/curiousgeorgeli)](https://twitter.com/curiousgeorgeli)
 [![Linkedin Badge](https://img.shields.io/badge/-thegeorgeyli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thegeorgeyli/)](https://www.linkedin.com/in//)
