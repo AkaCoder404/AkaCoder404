@@ -1,8 +1,10 @@
 # Welcome to my Github! 
-I am AkaCoder404! Readme is a work in progress, like everything I do. 
+I am AkaCoder404! Everything is a work in progress
 
-- 🏫 I have graduated Tsinghua University and majored in Computer Science. Now at Fudan University doing Software Engineering.
-- 🍎 I am currently learning everything related to Data Science, Machine Learning, AI and generally in love with Software Development.
+
+- 🏫 Current finishing my masters.
+- 🏫 I have graduated Tsinghua University and majored in Computer Science. 
+- 🍎 I am currently learning everything related to Data Science/ML/AI. Love developing software solutions.
 - :heart: I love 🏀, 📷, and ✈️。
 
 ### 🌍 Platforms
