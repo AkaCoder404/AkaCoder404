@@ -1,10 +1,9 @@
 # Welcome to my Github! 
 I am AkaCoder404! Everything is a work in progress
 
-
 - 🏫 Current finishing my masters.
 - 🏫 I have graduated Tsinghua University and majored in Computer Science. 
-- 🍎 I am currently learning everything related to Data Science/ML/AI. Love developing software solutions.
+- 🍎 Love developing software solutions. Interested in Data Science/ML/AI.
 - :heart: I love 🏀, 📷, and ✈️。
 
 ### 🌍 Platforms
@@ -34,10 +33,6 @@ You can contact me here.
 <br/>
 
 ### 🚧 Projects (In Progress)
-Here is a collection of my on going notes!
-- 📓 My Second Brain @ https://akacoder404.github.io/Obsidian-Quartz-PKM-Notes/
-- 👤 Portfolio Webpage @ https://portfolio-akacoder404.vercel.app/
-- 💻 Leetcode Journey @ https://akacoder404.github.io/LeetCodeJourney/
 
 Here are some of my notable projects
 - Reinforcement Learning: [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
@@ -45,8 +40,7 @@ Here are some of my notable projects
 - Applications of ML: [HoopAi](https://github.com/AkaCoder404/HoopAI)
 - Web Applications Frontend: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
 - Web Applications Backend: [Express-Starter](https://github.com/AkaCoder404/Express-Starter) and [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking) for Node.js backend, []() for Django backend.
-- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter, [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma, [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio, [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter, [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter.
-- GoLang
+- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter, [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma, [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio, [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter, [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter. 
 - Notes: [SVM](https://github.com/AkaCoder404/svm-notes), [Word Embedding](https://github.com/AkaCoder404/word-embedding-notes)
 
 ### 📄 Certifications
@@ -55,7 +49,6 @@ I got the following certificates.
 - IBM Data Scientist, Data Analyst Specialization
 - DeepLearing Specialization
 - Meta Back-End Developer Specialization
-
 
 ### 🔨 Languages and Tools
 Here are programming languages, frameworks, and tools that I am familiar with.
