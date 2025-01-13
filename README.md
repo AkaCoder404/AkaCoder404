@@ -1,38 +1,19 @@
 # Welcome to my Github! 
-I am AkaCoder404! Everything is a work in progress
+I am AkaCoder404! Everything is a work in progress. I am:
 
-- 🏫 Current finishing my masters.
-- 🏫 I have graduated Tsinghua University and majored in Computer Science. 
-- 🍎 Love developing software solutions. Interested in Data Science/ML/AI.
-- :heart: I love 🏀, 📷, and ✈️。
+- 🏫 currently finishing my masters.
+- 🏫 a Bachelor's of Engineering at Tsinghua University and majored in Computer Science and Technology. 
+- 🍎 a software developer and interested in the applications of Data Science/ML/AI.
+- ❤️ a lover of 🏀, 📷, and ✈️。
 
-### 🌍 Platforms
-Some platforms I use.
+### 📞 Contact Me
+You can find me on
 
-[![Website Badge](https://img.shields.io/badge/-portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
-[![Medium Badge](https://img.shields.io/badge/-thegeorgeyli-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@akacoder404)](https://medium.com/@thegeorgeyli)
-[![Dev.to blog](https://img.shields.io/badge/-akacoder404-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/akacoder404)](https://dev.to/akacoder404)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akacoder404)
-[![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/akacoder404/)   
-### 📞 Connect with Me! 
-You can contact me here.
-
-[![Instagram Badge](https://img.shields.io/badge/-@curiousgeorgeli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/curiousgeorgeli/)](https://instagram.com/curiousgeorgeli)
-[![Twitter Badge](https://img.shields.io/badge/-@curiousgeorgeli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/curiousgeorgeli)](https://twitter.com/curiousgeorgeli)
+[![Website Badge](https://img.shields.io/badge/-portfolio_website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-thegeorgeyli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thegeorgeyli/)](https://www.linkedin.com/in//)
-[![Outlook Badge](https://img.shields.io/badge/-akacoder404-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akacoder404@outlook.com)](mailto:akacoder404@outlook.com)
-<!-- 
-[<img align="left" alt="akacoder404.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="akacoder404 | Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />][weibo]
-[<img align="left" alt="akacoder404 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="akacoder404 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/alipay.svg" />][alipay]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-<br/>
+[![Medium Badge](https://img.shields.io/badge/-thegeorgeyli-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@thegeorgeyli)](https://medium.com/@thegeorgeyli)
 
-### 🚧 Projects (In Progress)
+### 🚧 Projects 
 
 Here are some of my notable projects
 - Reinforcement Learning: [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
@@ -40,11 +21,19 @@ Here are some of my notable projects
 - Applications of ML: [HoopAi](https://github.com/AkaCoder404/HoopAI)
 - Web Applications Frontend: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
 - Web Applications Backend: [Express-Starter](https://github.com/AkaCoder404/Express-Starter) and [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking) for Node.js backend, []() for Django backend.
-- Mobile Apps: [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter, [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma, [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio, [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter, [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter. 
-- Notes: [SVM](https://github.com/AkaCoder404/svm-notes), [Word Embedding](https://github.com/AkaCoder404/word-embedding-notes)
+- Mobile Apps:
+  - [Thing3 Clone] with Swift
+  - [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter,
+  - [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma,
+  - [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio,
+  - [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter,
+  - [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter 
+- Notes:
+  - [SVM](https://github.com/AkaCoder404/svm-notes),
+  - [Word Embedding](https://github.com/AkaCoder404/word-embedding-notes)
 
 ### 📄 Certifications
-I got the following certificates.
+Here are some certifications I have gotten in my free time:
 - AWS Cloud Practitioner, AWS Solutions Architect
 - IBM Data Scientist, Data Analyst Specialization
 - DeepLearing Specialization
