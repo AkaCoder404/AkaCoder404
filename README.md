@@ -6,13 +6,6 @@ I am AkaCoder404! Everything is a work in progress. I am:
 - 🍎 a software developer and interested in the applications of Data Science/ML/AI.
 - ❤️ a lover of 🏀, 📷, and ✈️。
 
-### 📞 Contact Me
-You can find me on
-
-[![Website Badge](https://img.shields.io/badge/-portfolio_website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akacoder404.vercel.app/)](https://portfolio-akacoder404.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-thegeorgeyli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thegeorgeyli/)](https://www.linkedin.com/in//)
-[![Medium Badge](https://img.shields.io/badge/-thegeorgeyli-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@thegeorgeyli)](https://medium.com/@thegeorgeyli)
-
 ### 🚧 Projects 
 
 Here are some of my notable projects
