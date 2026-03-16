@@ -1,7 +1,6 @@
 # Welcome to my Github! 
 I am AkaCoder404! Everything is a work in progress. I am:
 
-- 🏫 currently finishing my masters.
 - 🏫 a Bachelor's of Engineering at Tsinghua University and majored in Computer Science and Technology. 
 - 🍎 a software developer and interested in the applications of Data Science/ML/AI.
 - ❤️ a lover of 🏀, 📷, and ✈️。
