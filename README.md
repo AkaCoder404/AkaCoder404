@@ -8,21 +8,11 @@ I am AkaCoder404! Everything is a work in progress. I am:
 ### 🚧 Projects 
 
 Here are some of my notable projects
-- Reinforcement Learning: [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
-- Machine Learning: [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN)
-- Applications of ML: [HoopAi](https://github.com/AkaCoder404/HoopAI)
-- Web Applications Frontend: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
-- Web Applications Backend: [Express-Starter](https://github.com/AkaCoder404/Express-Starter) and [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking) for Node.js backend, []() for Django backend.
-- Mobile Apps:
-  - [Thing3 Clone] with Swift
-  - [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter,
-  - [SnapShots](https://github.com/AkaCoder404/Snapshots) in Figma,
-  - [SendNews](https://github.com/AkaCoder404/Sendnews) with Android Studio,
-  - [Chatter](https://github.com/AkaCoder404/Chatter) with Flutter,
-  - [SftpManager](https://github.com/AkaCoder404/sftpmanager) with Flutter 
-- Notes:
-  - [SVM](https://github.com/AkaCoder404/svm-notes),
-  - [Word Embedding](https://github.com/AkaCoder404/word-embedding-notes)
+- Agents
+- Freelance: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
+- School Projects: [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking), CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter,
+- AI: [HoopAi](https://github.com/AkaCoder404/HoopAI), [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN)
+- Deep Dives: [SVM Notes](https://github.com/AkaCoder404/svm-notes), [Word Embedding Notes](https://github.com/AkaCoder404/word-embedding-notes), [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
 
 ### 📄 Certifications
 Here are some certifications I have gotten in my free time:
