@@ -42,7 +42,7 @@ Here are programming languages, frameworks, and tools that I am familiar with.
 
 [//]: # (link defs that don't show up)
 
-[portfolio website]: www.georgeli.dev
+[portfolio website]: https://www.georgeli.dev
 <!-- 
 [course]: 
 [twitter]: 
