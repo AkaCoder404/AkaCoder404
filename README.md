@@ -10,7 +10,7 @@ I am AkaCoder404! Everything is a work in progress. I am:
 A visualization of my projects can be found at my [portfolio website]. But here are some of my notable repos:
 - Freelance: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
 - School Projects: [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking), [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter,
-- AI: [HoopAi](https://github.com/AkaCoder404/HoopAI), [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN)
+- AI: [Tennis Court Detector](https://github.com/AkaCoder404/TennisCourtDetectorwithYolov8), [HoopAi](https://github.com/AkaCoder404/HoopAI), [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN), 
 - Deep Dives: [SVM Notes](https://github.com/AkaCoder404/svm-notes), [Word Embedding Notes](https://github.com/AkaCoder404/word-embedding-notes), [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
 
 ### 📄 Certifications
