@@ -7,18 +7,21 @@ I am AkaCoder404! Everything is a work in progress. I am:
 
 ### 🚧 Projects 
 
-A visualization of my projects can be found at my [portfolio website]. But here are some of my notable repos:
+A visualization of my projects can be found at my [portfolio website]. But here are some of my personal notable repos:
 - Freelance: [SmartRoom3D](https://github.com/AkaCoder404/SmartRoom3D), [ICBS](https://2023.icbs.cn/en/web/index/), [EncoSmart](http://www.encosmart.com/home)
 - School Projects: [Studyroom-Booking](https://github.com/AkaCoder404/Studyroom-booking), [CourtFinder](https://github.com/AkaCoder404/CourtFinder) with Flutter,
 - AI: [Tennis Court Detector](https://github.com/AkaCoder404/TennisCourtDetectorwithYolov8), [HoopAi](https://github.com/AkaCoder404/HoopAI), [3D Point Neural Networks](https://github.com/AkaCoder404/3DNN), 
 - Deep Dives: [SVM Notes](https://github.com/AkaCoder404/svm-notes), [Word Embedding Notes](https://github.com/AkaCoder404/word-embedding-notes), [Reinforcement Learning Odyssey](https://github.com/AkaCoder404/Reinforcement-Learning-Odyssey)
 
+Some open source projects that I have contributed to:
+- [ping-island](github.com/erha19/ping-island)
+- [adk-docs](https://github.com/google/adk-docs) - [#387](https://github.com/google/adk-docs/pull/387)
+- [gemini-cli](https://github.com/google-gemini/gemini-cli) - [#27030](https://github.com/google-gemini/gemini-cli/issues/27030)
+
 ### 📄 Certifications
 Here are some certifications I have gotten in my free time:
 - AWS Cloud Practitioner, AWS Solutions Architect
-- IBM Data Scientist, Data Analyst Specialization
-- DeepLearing Specialization
-- Meta Back-End Developer Specialization
+- Google Professional Architect
 
 ### 🔨 Languages and Tools
 Here are programming languages, frameworks, and tools that I am familiar with.
